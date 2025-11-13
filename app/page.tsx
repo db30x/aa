@@ -612,7 +612,7 @@ export default function Home() {
                 <span className="text-2xl md:text-3xl text-blue-300">Coming June 2025</span>
               </h2>
               <p className="mx-auto mt-4 max-w-2xl text-lg text-slate-300">
-                Leveraging advanced AI and data analytics to uncover deeper insights into antisemitic patterns and trends. Publishing June 2025.
+                Leveraging advanced AI and data analytics to uncover deeper insights into antisemitic patterns and trends. Publishing January 2026.
               </p>
 
               {/* Contact Section */}
